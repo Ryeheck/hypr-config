@@ -1,6 +1,3 @@
--- ╭─ ♪ Symphony ─╮
--- │  Generated   │
--- ╰──────────────╯
 -- Theme: Omarchy midnight (omarchy)
 
 local activeBorderColor = "rgba(81a2beaa)"

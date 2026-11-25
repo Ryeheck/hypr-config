@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Wallpaper cycling and picker for current theme
 # Usage: cycle-wallpaper [left|prev|right|next]
 #   no args    = open rofi picker
